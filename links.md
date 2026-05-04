@@ -4,9 +4,9 @@ This file collects official and reviewable Ciforus links.
 
 ## Project
 
-- Official website: `ADD_OFFICIAL_WEBSITE_URL_HERE`
-- Token page: `ADD_TOKEN_PAGE_URL_HERE`
-- Presale page: `ADD_PRESALE_PAGE_URL_HERE`
+- Official website: <https://ciforus.com>
+- Token page: <https://ciforus.com/token>
+- Presale page: <https://ciforus.com/token/presale>
 - Documentation page: `ADD_DOCS_URL_HERE`
 
 ## Community
@@ -33,7 +33,3 @@ This file collects official and reviewable Ciforus links.
 - Litepaper PDF: `/Ciforus-Litepaper-ver1.1.pdf`
 - Pitch deck: `/Ciforus-Pitchdeck-Show.ppsx`
 - Audit report: <https://audits.lexguard.io/2026-03-30_Ciforus_CIFORUS_token.pdf>
-
-## Repository Notes
-
-Replace placeholder project and community links after the official public URLs are finalized.
