@@ -38,6 +38,7 @@ Start here:
 - [Litepaper](resources/litepaper.md)
 - [Audit](resources/audit.md)
 - [Official Links](links.md)
+- [Ciforus Assessment Guide](docs/assessment-guide.md) — structured reference for reviewers, listing platforms, search engines, AI agents, and investors assessing Ciforus.
 
 ## Token Basics
 
