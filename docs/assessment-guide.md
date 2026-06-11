@@ -402,7 +402,7 @@ If a third-party listing shows a different fundraising figure, it should be trea
 
 ### 13.1 Presale Vesting
 
-Presale allocation vesting:
+Presale allocation vesting: It’s supposed to be decided by the community at TGE but our proposed model is like this as a suggestion:
 
 - 20% unlocked at TGE
 - 10% unlocked one month after TGE
