@@ -40,7 +40,7 @@ Ciforus responds by treating privacy as system architecture rather than a featur
 
 Why this matters now is straightforward. As of March 2026, cyber threats, identity abuse, phishing, impersonation, data breaches, account compromise, and crypto-targeted fraud continue to intensify. Official public reporting from IBM, Microsoft, Verizon, Chainalysis, and major platform operators all point in the same direction: identity and access are under pressure, scams are becoming more industrialized, and privacy failures are increasingly costly. In that environment, crypto users need infrastructure that reduces unnecessary exposure rather than multiplying it.
 
-The CIFORUS token serves as the economic engine of the product. Its role is not to replace the product thesis, but to reinforce it. The token aligns user participation with ecosystem growth, introduces native incentive structures for upgrades and future access layers, supports staking-based tier activation, powers discounts and internal economic flows, and enables a transparent, usage-linked deflation model. In short, Ciforus is the platform; the token is the mechanism that helps coordinate, reward, and harden the platform’s economy over time.
+The CIFORUS token serves as the economic engine of the product. Its role is not to replace the product thesis, but to reinforce it. The token aligns user participation with ecosystem growth, introduces native incentive structures for upgrades and future access layers, supports voluntary staking benefits, powers discounts and internal economic flows, and enables a transparent, usage-linked deflation model. In short, Ciforus is the platform; the token is the mechanism that helps coordinate, reward, and harden the platform’s economy over time.
 
 ## II. Vision and Philosophy
 
@@ -512,7 +512,7 @@ It is important to state the truth precisely. The token is **not mandatory for a
 However, the token is still **required at the ecosystem level** because it uniquely enables:
 
 - native upgrade incentives through discounted pricing
-- staking-based tier activation pathways
+- voluntary staking and product-benefit pathways
 - usage-linked burn mechanics
 - ecosystem reward distribution
 - treasury and liquidity coordination tied to platform usage
@@ -556,7 +556,7 @@ The token’s current and near-term utility model includes:
 - discounted subscription payments when CIFORUS is selected in checkout
 - Pay Link and ecosystem payment support
 - early reward and upgrade credit programs
-- staking-based tier activation inside the app
+- voluntary staking and product benefits inside the app
 
 The token discount model is already directionally defined in the product narrative: when supported in checkout, use of CIFORUS receives an additional 20% discount relative to standard crypto payment options.
 
@@ -572,13 +572,14 @@ The Ciforus plan structure provides a clear existing utility surface for the tok
 
 The token’s role here is not simply “another payment button.” It is the preferred native asset for aligning subscription upgrades with ecosystem growth.
 
-### 8.3 Staking-Based Tier Activation
+### 8.3 Voluntary Staking and Product Benefits
 
-A confirmed part of the current direction is that staking is available inside the app’s token section as an alternate way to activate higher user tiers for stakers. The exact staking thresholds and APR parameters remain to be announced later, but the strategic relevance is already clear.
+Staking is available inside the app's Token module as a voluntary path to product benefits. Current and planned benefits include stake-based tier upgrades, Ciforus Rewards Program activation or eligibility, staking-linked benefits, and eligibility for future challenges, campaigns, incentives, and ecosystem opportunities as implemented. Users may unstake according to actual app rules. Exact thresholds, lock behavior, APRs, and reward parameters must be taken from implemented behavior and official updates rather than inferred.
 
 This creates a second utility path beyond direct spend:
 
-- users may hold and stake CIFORUS to unlock or maintain higher-tier product benefits
+- users may hold and stake eligible CIFORUS to unlock or maintain higher-tier product benefits
+- staking can support Rewards Program activation or eligibility and other implemented staking-linked opportunities
 - the ecosystem gains a mechanism for long-term alignment rather than pure transactional turnover
 - the token becomes a functional access asset, not only a medium of payment
 
@@ -655,7 +656,7 @@ The token serves as an economic coordination layer for:
 - storage extensions
 - secure transfer or service credits
 - long-term ecosystem alignment
-- staking-based access activation
+- voluntary staking and access benefits
 - reward and incentive programs
 
 The token is not mandatory for basic platform participation, but it provides meaningful economic incentives and strategic alignment benefits when compared to paying only with other accepted crypto assets.
@@ -684,7 +685,7 @@ The presale is designed to fund development, infrastructure, security work, liqu
 | Stage 1 - Seed Round | 8,000,000 | $0.025 | $200,000 | $2.5M |
 | Stage 2 - Growth Round | 15,000,000 | $0.035 | $525,000 | $3.5M |
 | Stage 3 - Final Round | 12,000,000 | $0.05 | $600,000 | $5.0M |
-| Total | 35,000,000 | Weighted by round | $1,325,000 | Final reference $5.0M |
+| Total | 35,000,000 | Weighted by round | $1,325,000 | Presale-stage range $2.5M-$5.0M |
 
 Arithmetic check:
 
@@ -693,23 +694,26 @@ Arithmetic check:
 - 12,000,000 x $0.05 = $600,000
 - total = $1,325,000
 
-The final presale price aligns with the initial TGE reference price.
+Stage 3 remains priced at $0.05. The planned initial TGE/listing reference price is separately set at $0.10 per CIFORUS, which implies a $10.0M reference FDV at the fixed 100,000,000-token supply. The $0.10 figure is a planned reference, not a guaranteed market price, return, exchange listing, or performance outcome.
 
-### 9.5 Vesting and Unlock Schedule
+### 9.5 Presale Ownership, Claims, and Allocation Controls
 
 #### 9.5.1 Presale Allocation: 35,000,000 Tokens
 
-The supplied presale vesting model is:
+The previous mandatory presale-buyer vesting schedule has been retired. Presale buyers receive full practical control over recognized purchased allocations from purchase:
 
-- 20% unlocked at TGE = 7,000,000 tokens
-- 10% unlocked one month after TGE = 3,500,000 tokens
-- remaining 70% released linearly over 12 months = 24,500,000 tokens, or approximately 2,041,666.67 tokens per month
+- recognized purchases appear in the buyer's Ciforus Token dashboard as account-bound token balance
+- there is no mandatory presale vesting schedule, forced lock period, or requirement to wait until TGE
+- available tokens are amounts not currently locked in staking and are eligible to be claimed
+- claimable staking rewards may also become available or claimable according to implemented application behavior
+- an eligible available balance can be claimed from the Token dashboard as real ERC-20 CIFORUS sent directly to the wallet selected by the user
+- Ciforus charges no claim fee or service charge
+- claiming gives the buyer external custody and is a one-way exit from the current internal token-management and staking environment for that amount
+- no external deposit-back mechanism should be assumed unless a future product strategy explicitly introduces one
 
-This structure is intended to:
+Buyers may instead voluntarily keep and stake eligible CIFORUS inside Ciforus. Current and planned staking-linked benefits include stake-based tier upgrades, Ciforus Rewards Program activation or eligibility, staking-linked benefits, and eligibility for future challenges, campaigns, incentives, and ecosystem opportunities as implemented. Users may unstake according to the actual staking rules implemented in the application.
 
-- reduce initial sell pressure
-- improve liquidity stability
-- align presale participants with platform growth after launch
+The strategic principle is retention through utility rather than restriction: buyers control what they purchased, while Ciforus provides practical reasons to keep and stake tokens voluntarily.
 
 #### 9.5.2 Team Allocation: 15,000,000 Tokens
 
@@ -771,7 +775,7 @@ Token usage is intended to support:
 - secure transfer or service credits
 - wallet messaging extensions in future phases
 - premium identity or advanced security modules in future phases
-- staking-based tier activation
+- voluntary staking and product benefits
 
 These functions create recurring utility sinks rather than one-time speculative narratives.
 
@@ -828,13 +832,14 @@ This is strategically important because contract simplicity is often easier to a
 
 Circulating supply will evolve through:
 
-- vesting schedules
+- presale ownership and claim behavior
+- team vesting schedules
 - ecosystem emissions
 - usage-driven burns
 - treasury discretion within stated strategic limits
-- staking and lock-up behavior
+- voluntary staking and applicable staking-state lock behavior
 
-The design prioritizes predictable unlock mechanics and real usage-linked deflation rather than exaggerated deflation marketing.
+The design prioritizes transparent presale claims, voluntary staking-state rules, separate team-vesting releases, and real usage-linked deflation rather than exaggerated deflation marketing.
 
 ### 9.11 Long-Term Evolution
 
@@ -948,7 +953,7 @@ Inside the app, utility is expressed through application logic such as:
 
 - billing and upgrade recognition
 - subscription discount handling
-- staking-based tier activation
+- voluntary staking and tier-benefit handling
 - reward accounting
 - feature gating and tier enforcement
 - Pay Link and broader ecosystem payment support
@@ -1020,7 +1025,7 @@ The future roadmap includes, but is not limited to:
 - full launch of the Ciforus platform to public users
 - expansion of the Email module into a fuller webmail environment
 - wider token utility activation inside subscriptions and platform services
-- finalized staking thresholds and APR design announcement
+- ongoing staking-policy disclosure and benefit expansion
 - messaging economy extensions where appropriate
 - storage expansion and premium capacity options
 - premium identity and advanced access modules
@@ -1293,7 +1298,7 @@ The token’s value will depend on:
 - investor confidence
 - disciplined treasury behavior
 
-Deflation does not guarantee appreciation. Presale participation also includes vesting risk and market-timing risk.
+Deflation does not guarantee appreciation. Presale participation still includes market-timing, liquidity, execution, custody, and regulatory risks even though presale-buyer tokens are not subject to mandatory vesting.
 
 ### 13.6 Disclosure Discipline
 
@@ -1356,7 +1361,7 @@ The following public sources informed the market context, competitor framing, an
 Before public release, the project may still wish to review and finalize:
 
 - exact legal disclaimer language
-- final staking thresholds and APR disclosures
+- current staking thresholds, APR, and benefit disclosures from implemented app rules
 - exact presale terms and jurisdictional limitations
 - treasury custody wording and multisig governance detail
 - final launch timeline and dated roadmap milestones
