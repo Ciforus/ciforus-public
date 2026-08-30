@@ -8,16 +8,18 @@ This file collects official and reviewable Ciforus links.
 - Token page: <https://ciforus.com/token>
 - Presale page: <https://ciforus.com/token/presale>
 - Documentation page: <https://ciforus.com/token#docs>
+- Product page: <https://ciforus.com/product>
+- Ciforus App: <https://app.ciforus.com>
 
 ## Community
 
 - X / Twitter: <https://x.com/CiforusHQ>
 - Telegram: <https://t.me/CiforusHQ>
-- Discord: <https://discord.gg/JM55Q69bb>
+- Discord: <https://discord.gg/XKF87mK2g5>
 - Medium: <https://ciforus.medium.com>
 - Paragraph: <https://paragraph.com/@ciforus>
 - Dev.to: <https://dev.to/ciforus>
-- BitcoinTalk: <#>
+- BitcoinTalk: <https://bitcointalk.org/index.php?topic=5582230.0>
 
 ## Token Review
 

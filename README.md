@@ -18,7 +18,7 @@ Ciforus is designed as a connected privacy ecosystem rather than a set of isolat
 - Pay Links for crypto-native payment requests
 - Security Center for account protection and recovery controls
 
-The product comes first. The CIFORUS token is positioned as the economic layer of the ecosystem, supporting access, discounts, rewards, payments, staking-based utility direction, and usage-linked deflation mechanics.
+The product comes first. The CIFORUS token remains the economic layer of the ecosystem, supporting access, discounts, rewards, payments, voluntary staking benefits, and usage-linked deflation. Recognized presale purchases have no mandatory buyer vesting; eligible available tokens can be kept, staked, or claimed to external custody.
 
 ## Documentation
 
