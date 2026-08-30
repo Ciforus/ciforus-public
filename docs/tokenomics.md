@@ -37,17 +37,22 @@ Nothing in this document is financial, legal, tax, or investment advice.
 | Stage 1 — Seed Round | 8,000,000 | $0.025 | $200,000 | $2.5M |
 | Stage 2 — Growth Round | 15,000,000 | $0.035 | $525,000 | $3.5M |
 | Stage 3 — Final Round | 12,000,000 | $0.05 | $600,000 | $5.0M |
-| Total | 35,000,000 | Weighted by round | $1,325,000 | Final reference $5.0M |
+| Total | 35,000,000 | Weighted by round | $1,325,000 | Presale FDV range $2.5M-$5.0M |
 
-## Presale Vesting
+The planned initial TGE/listing reference is separately set at $0.10 per CIFORUS, implying a $10.0M reference FDV at the fixed supply. This is a planned reference, not a guaranteed market price, return, exchange listing, or performance outcome.
+
+## Presale Buyer Ownership, Claims, and Staking
 
 Presale allocation: 35,000,000 CIFORUS
 
-- 20% unlocked at TGE: 7,000,000 tokens
-- 10% unlocked one month after TGE: 3,500,000 tokens
-- 70% released linearly over 12 months: 24,500,000 tokens
+- recognized purchases appear in the buyer's Ciforus Token dashboard as account-bound token balance
+- no mandatory presale vesting, forced lockup, or requirement to wait until TGE
+- eligible available CIFORUS can be claimed as real ERC-20 tokens to the selected wallet without a Ciforus claim fee
+- claiming is a one-way exit from the current internal token-management and staking environment for that amount
+- keeping and staking eligible CIFORUS inside Ciforus is voluntary, with product benefits under implemented app rules
+- users may unstake according to actual app rules
 
-This structure is intended to reduce initial pressure and align presale participants with platform growth after launch.
+The strategy encourages retention through useful product benefits rather than mandatory presale-buyer restrictions.
 
 ## Team Vesting
 

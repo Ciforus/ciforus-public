@@ -40,7 +40,8 @@ CIFORUS is positioned for:
 
 - subscription discounts
 - tier upgrades
-- staking-based access direction
+- voluntary staking and product benefits
+- external claiming of eligible available CIFORUS
 - rewards and incentives
 - Pay Link and payment support
 - usage-linked burn logic
@@ -51,6 +52,14 @@ CIFORUS is positioned for:
 No.
 
 Ciforus can support other crypto-based payment assets. CIFORUS is not positioned as mandatory for all access, but it is the native asset designed to coordinate ecosystem utility.
+
+## Are presale tokens subject to mandatory vesting?
+
+No. Recognized presale purchases appear in the buyer's Ciforus Token dashboard with no mandatory vesting, forced lockup, or requirement to wait until TGE. Team vesting remains separate: a six-month cliff followed by linear vesting over 24 months.
+
+## Can buyers claim or stake their CIFORUS?
+
+Yes. Eligible available CIFORUS can be claimed as real ERC-20 tokens to the user's selected wallet without a Ciforus claim fee, or kept and staked voluntarily inside Ciforus for product benefits under current app rules. Claiming is a one-way exit from internal token management for that amount.
 
 ## What is the token contract?
 

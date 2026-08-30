@@ -100,7 +100,8 @@ Inside the app:
 - utility can be expressed through billing recognition
 - subscription discounts
 - tier upgrades
-- staking-based access direction
+- voluntary staking and product benefits
+- account-bound presale ownership and eligible external claims
 - rewards
 - Pay Link and payment flows
 - feature and entitlement logic

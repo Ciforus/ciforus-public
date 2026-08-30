@@ -27,7 +27,8 @@ The token is positioned for:
 
 - subscription tier upgrades
 - discounted payments in supported checkout flows
-- staking-based access direction
+- voluntary staking and product benefits
+- external claiming of eligible available CIFORUS
 - rewards and incentives
 - Pay Link and payment support
 - usage-linked burn logic
@@ -52,9 +53,9 @@ CIFORUS is positioned to provide an additional 20% discount when used in support
 
 The token is designed to support tier upgrades inside the Ciforus ecosystem.
 
-### Staking-Based Access
+### Presale Buyer Control, Claims, and Staking
 
-A confirmed direction is staking-based tier activation as an alternate path to unlock higher plans. Exact thresholds and parameters should be announced only when finalized.
+Recognized presale purchases appear in the buyer's Ciforus Token dashboard with no mandatory vesting, forced lockup, or requirement to wait until TGE. Eligible available CIFORUS can be claimed as real ERC-20 tokens to the user's selected wallet without a Ciforus claim fee, or kept and staked voluntarily for product benefits under current app rules. Claiming is a one-way exit from internal token management for that amount.
 
 ### Rewards
 

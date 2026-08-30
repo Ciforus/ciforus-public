@@ -53,7 +53,8 @@ The token is not presented as a replacement for the product. It is positioned as
 
 - subscription discounts
 - tier upgrades
-- staking-based access direction
+- voluntary staking and product benefits
+- external claiming of eligible available CIFORUS
 - rewards and incentives
 - Pay Link and payment flows
 - usage-linked burn logic

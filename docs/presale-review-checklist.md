@@ -40,7 +40,8 @@ Review whether the token role is clear across:
 - access and tier upgrades
 - rewards and incentives
 - Pay Links and payment flows
-- staking-based access direction
+- voluntary staking and product benefits
+- external claiming of eligible available CIFORUS
 - usage-linked burn mechanics
 
 ## Tokenomics Review
@@ -54,7 +55,8 @@ Check the public materials for:
 - treasury allocation
 - team allocation
 - liquidity allocation
-- vesting terms
+- presale buyer ownership and claim behavior
+- voluntary staking rules and separate team vesting
 - presale stage pricing
 
 ## Risk Review
